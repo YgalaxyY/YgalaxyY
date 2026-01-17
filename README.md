@@ -1,0 +1,199 @@
+<div align="center">
+
+<!-- HEADER: BLACK HOLE GIF -->
+<img src="https://github.com/YgalaxyY/YgalaxyY/blob/main/assets/header_space.gif" width="100%" height="280" style="object-fit: cover; opacity: 0.95; border-radius: 20px; border: 3px solid #7B2CBF; box-shadow: 0 0 50px #4B0082;">
+
+<br><br>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&weight=900&size=50&height=110&pause=10000&color=A970FF&center=true&vCenter=true&width=900&lines=🚀+COMMANDER:+YGALAXY" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=>>+System.login(User:+Denis);>>+Class:+Neural_Architect+%2F%2F+Lvl:+MAX;>>+Stacks:+PyTorch,+Anime,+%26+Mid-Lane+Invoker;>>+Daily_Task:+Bench+Press+100kg+%2B+Train+LLMs;>>+Status:+Building+AGI+to+conquer+chaos..." />
+</p>
+
+<!-- BIO SECTION -->
+<table border="0" cellpadding="0" cellspacing="0" align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+        <!-- АВАТАР -->
+        <div style="position: relative; display: inline-block;">
+            <img src="https://github.com/YgalaxyY/YgalaxyY/blob/main/assets/avatar.gif" width="200" style="border-radius: 50%; border: 5px solid #7B2CBF; box-shadow: 0 0 45px #A970FF;">
+        </div>
+    </td>
+    <td width="3%"></td>
+    <td align="left" width="72%">
+      <h3 style="color: #ffffff; letter-spacing: 1px;">🧬 Neural Architect & Python Visionary</h3>
+      <!-- БЛОК КОДА С БИОГРАФИЕЙ -->
+      <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 20px; box-shadow: inset 0 0 20px rgba(0,0,0,0.5);">
+        <code style="color: #FF7B72;">class</code> <code style="color: #E2C08D;">yGalaxy</code>(<code style="color: #A5D6FF;">Engineer</code>): <br>
+        &nbsp;&nbsp;<code style="color: #FF7B72;">def</code> <code style="color: #D2A8FF;">__init__</code>(self):<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;self.name = <code style="color: #79C0FF;">"Denis"</code><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;self.role = <code style="color: #79C0FF;">"ML/CV Engineer"</code><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;self.stack = [<code style="color: #A5D6FF;">"PyTorch"</code>, <code style="color: #A5D6FF;">"OpenCV"</code>, <code style="color: #A5D6FF;">"PySide6"</code>, <code style="color: #A5D6FF;">"FastAPI"</code>]<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;self.tools = [<code style="color: #A5D6FF;">"Docker"</code>, <code style="color: #A5D6FF;">"Linux (Arch)"</code>, <code style="color: #A5D6FF;">"Git"</code>]<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;self.hobbies = [<code style="color: #A5D6FF;">"Dota 2 (Mid)"</code>, <code style="color: #A5D6FF;">"Anime"</code>, <code style="color: #A5D6FF;">"Sci-Fi Books"</code>]<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;self.lifestyle = [<code style="color: #A5D6FF;">"Gym & Powerlifting"</code>, <code style="color: #A5D6FF;">"Clean Eating"</code>]<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;self.mission = <code style="color: #7EE787;">"Building AGI to change the world"</code>
+      </div>
+      <br>
+      <!-- CONTACTS -->
+      <a href="https://t.me/igalaxyLight"><img src="https://img.shields.io/badge/TELEGRAM-BEAM_IN-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+      <a href="https://vk.com/igalaxylight"><img src="https://img.shields.io/badge/VK-CONTACT-0077FF?style=for-the-badge&logo=vk&logoColor=white"></a>
+      <a href="http://instagram.com/igalaxylight_"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    </td>
+  </tr>
+</table>
+
+<br>
+<!-- ЗВЕЗДНЫЙ РАЗДЕЛИТЕЛЬ -->
+<img src="https://github.com/YgalaxyY/YgalaxyY/blob/main/assets/divider.gif" width="100%">
+<br>
+
+<!-- TECH STACK -->
+<h2 align="center" style="color: #A970FF; text-shadow: 0 0 10px #7B2CBF;">🛠️ WARP DRIVE ENGINES</h2>
+<div align="center" style="background: linear-gradient(to right, #0D1117, #161b22, #0D1117); border: 1px solid #30363d; border-radius: 15px; padding: 25px;">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,tensorflow,opencv,fastapi,django,qt&theme=dark" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,postgres,idea,md&theme=dark" />
+</div>
+
+<br>
+<h2 align="center" style="color: #00D4FF; letter-spacing: 2px;">🌌 FLAGSHIP MOTHERSHIPS</h2>
+
+<!-- PROJECTS TABLE -->
+<table border="0" cellpadding="0" cellspacing="15" align="center" width="100%">
+  <tr>
+    <!-- CARDORA (Purple Theme) -->
+    <td align="center" width="50%" valign="top" style="border: 2px solid #7B2CBF; border-radius: 20px; background-color: #0d1117; padding-bottom: 20px;">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=header&text=CARDORA%20AI&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%"/>
+      <br>
+      <h3 style="color: #A970FF;">Enterprise Automation Hub</h3>
+      <p align="left" style="padding: 0 15px; color: #c9d1d9; font-size: 14px;">
+        ⚙️ <b>E-commerce гигант.</b> Система промышленной автоматизации: нейросети для апскейлинга, генерация PSD, прямая связь с Excel и защита софта (HWID).
+      </p>
+      <p align="center">
+        <!-- БЭЙДЖ: Темный фон, Фиолетовый лейбл -->
+        <img src="https://img.shields.io/badge/Stack-Python_|_PySide6_|_RealESRGAN-black?style=flat-square&color=0D1117&labelColor=7B2CBF">
+      </p>
+      <a href="https://github.com/YgalaxyY/Cardora-AI-Automation">
+        <img src="https://img.shields.io/badge/WARP_IN-ACCESS_GRANTED-success?style=for-the-badge">
+      </a>
+    </td>
+    
+   <!-- GALAXY CORE (Cyan Theme) -->
+  <td align="center" width="50%" valign="top" style="border: 2px solid #00D4FF; border-radius: 20px; background-color: #0d1117; padding-bottom: 20px;">
+      <!-- ИСПРАВЛЕНО: Заголовок голубой, текст ЧЕРНЫЙ (0D1117) -->
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=120&section=header&text=GALAXY%20CORE&fontSize=35&fontColor=0D1117&animation=twinkling&fontAlignY=40" width="100%"/>
+      <br>
+      <h3 style="color: #00D4FF;">LLM Second Brain</h3>
+      <p align="left" style="padding: 0 15px; color: #c9d1d9; font-size: 14px;">
+        🧠 <b>Личный Цифровой Двойник.</b> ОС на базе Qwen/Llama. Анализирует контент, классифицирует знания и управляет веб-сайтом без базы данных.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Stack-Aiogram_|_HuggingFace_|_HTML5-black?style=flat-square&color=0D1117&labelColor=00D4FF">
+      </p>
+      <a href="https://github.com/YgalaxyY/GalaxyOS_BookMarkCore">
+        <img src="https://img.shields.io/badge/WARP_IN-ACCESS_GRANTED-blue?style=for-the-badge">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+<img src="https://github.com/YgalaxyY/YgalaxyY/blob/main/assets/divider.gif" width="100%">
+<br>
+
+<!-- LEARNING PATH -->
+<h2 align="center" style="color: #FFD700;">🎓 NEURAL EVOLUTION PATH</h2>
+<div align="left" style="border-left: 5px solid #FFD700; background: #161b22; padding: 20px; border-radius: 0 15px 15px 0; border-top: 1px solid #30363d; border-bottom: 1px solid #30363d;">
+    <h3 style="margin-top: 0; color: #FFD700;">✨ Road to Senior ML Engineer</h3>
+    <p style="color: #c9d1d9;">Здесь я документирую свой процесс роста: решение алгоритмических задач, участие в соревнованиях Kaggle и изучение математики Deep Learning.</p>
+    
+   <a href="https://github.com/YgalaxyY/ML-Engineer-Path">
+        <img src="https://img.shields.io/badge/LeetCode_&_Kaggle-SOLUTIONS-orange?style=for-the-badge&logo=leetcode&logoColor=white">
+    </a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Status-GRINDING_HARD-critical?style=for-the-badge">
+</div>
+
+<br>
+
+<!-- SATELLITE PROJECTS -->
+<h2 align="center" style="color: #FF7B72;">🛰️ SATELLITE DEPLOYMENTS</h2>
+<table width="100%">
+    <tr>
+        <td width="33%">
+            <h3 align="center" style="color: #e2e2e2;">🕵️ Spy of the Computer</h3>
+            <p align="center" style="color: #8b949e;">Python-скрипт для мониторинга активности и инцидентов.</p>
+            <p align="center"><a href="https://github.com/YgalaxyY/Spy_of_the_computer">View Repo</a></p>
+        </td>
+        <td width="33%">
+            <h3 align="center" style="color: #e2e2e2;">📊 Excel Fusion</h3>
+            <p align="center" style="color: #8b949e;">Утилита для умного объединения множества таблиц в одну.</p>
+            <p align="center"><a href="https://github.com/YgalaxyY/concatenate_multiple_excel">View Repo</a></p>
+        </td>
+        <td width="33%">
+            <h3 align="center" style="color: #e2e2e2;">👴 House of the Sun</h3>
+            <p align="center" style="color: #8b949e;">Сайт для дома престарелых (Commercial Order).</p>
+            <p align="center"><a href="https://github.com/YgalaxyY/House-of-the-sun">View Repo</a></p>
+        </td>
+    </tr>
+     <tr>
+        <td width="33%">
+            <h3 align="center" style="color: #e2e2e2;">🩰 Ballet-Arts Harmony</h3>
+            <p align="center" style="color: #8b949e;">Лендинг с использованием Bootstrap 4 и Waypoints JS (Commercial Order)</p>
+             <p align="center"><a href="https://github.com/YgalaxyY/Ballet-Arts-Harmony">View Repo</a></p>
+        </td>
+        <td width="33%">
+           <h3 align="center" style="color: #e2e2e2;">🔭 ...Scanning Deep Space</h3>
+        </td>
+       <td width="33%">
+           <h3 align="center" style="color: #e2e2e2;">🔭 ...Scanning Deep Space</h3>
+        </td>
+    </tr>
+</table>
+
+<br>
+<img src="https://github.com/YgalaxyY/YgalaxyY/blob/main/assets/divider.gif" width="100%">
+<br>
+
+<!-- STATS & SNAKE -->
+<!-- ============================================== -->
+<!-- SYSTEM CONTROL DECK (ФИНАЛЬНЫЙ БЛОК)           -->
+<!-- ============================================== -->
+
+<h2 align="center" style="color: #A970FF; text-shadow: 0 0 15px #7B2CBF; letter-spacing: 2px;">📊 SYSTEM CONTROL DECK</h2>
+
+<div align="center" style="border: 1px solid #30363d; border-radius: 15px; background-color: #0D1117; padding: 20px; max-width: 850px; margin: 0 auto; box-shadow: 0 0 30px rgba(0,0,0,0.5);">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YgalaxyY&theme=tokyonight&hide_border=true&background=0D1117&ring=A970FF&fire=00D4FF&currStreakLabel=00D4FF" width="100%" />
+
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YgalaxyY&bg_color=0D1117&color=A970FF&line=7B2CBF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+  <!-- РАЗДЕЛИТЕЛЬ -->
+  <div style="border-top: 1px solid #30363d; width: 100%;"></div>
+
+  <!-- НИЖНЯЯ ЧАСТЬ: ГАЛАКТИКА (РАДАР) -->
+  <div style="position: relative; background-color: #090c10;">
+      <!-- Заголовок поверх радара -->
+      <div style="position: absolute; top: 15px; left: 20px; z-index: 10;">
+      </div>
+      
+  <!-- АНИМАЦИЯ -->
+  <img src="https://raw.githubusercontent.com/YgalaxyY/YgalaxyY/main/assets/galaxy_anim.svg" alt="Galaxy Radar" width="100%" style="display: block;">
+  </div>
+
+</div>
+
+<!-- ПОДВАЛ (FOOTER) -->
+<div align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=YgalaxyY&color=7B2CBF&style=for-the-badge&label=NETRUNNERS_ONLINE">
+</div>
+
+</div>
