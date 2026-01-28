@@ -35,7 +35,7 @@
         &nbsp;&nbsp;&nbsp;&nbsp;self.mission = <code style="color: #7EE787;">"Building AGI to change the world"</code>
       </div>
       <br>
-      <a href="https://t.me/igalaxyLight"><img src="https://img.shields.io/badge/TELEGRAM-BEAM_IN-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+      <a href="https://t.me/ygalaxyy"><img src="https://img.shields.io/badge/TELEGRAM-BEAM_IN-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
       <a href="https://vk.com/igalaxylight"><img src="https://img.shields.io/badge/VK-CONTACT-0077FF?style=for-the-badge&logo=vk&logoColor=white"></a>
       <a href="http://instagram.com/igalaxylight_"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     </td>
