@@ -5,7 +5,7 @@
 
 <br><br>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&weight=900&size=50&height=110&pause=10000&color=A970FF&center=true&vCenter=true&width=900&lines=🚀+COMMANDER:+YGALAXY" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&weight=900&size=50&height=110&pause=10000&color=A970FF&center=true&vCenter=true&width=900&lines=🚀+COMMANDER:+YGALAXYY" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -24,7 +24,7 @@
     <td align="left" width="72%">
       <h3 style="color: #ffffff; letter-spacing: 1px;">🧬 Neural Architect & Python Visionary</h3>
       <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 20px; box-shadow: inset 0 0 20px rgba(0,0,0,0.5);">
-        <code style="color: #FF7B72;">class</code> <code style="color: #E2C08D;">yGalaxy</code>(<code style="color: #A5D6FF;">Engineer</code>): <br>
+        <code style="color: #FF7B72;">class</code> <code style="color: #E2C08D;">YgalaxyY</code>(<code style="color: #A5D6FF;">Engineer</code>): <br>
         &nbsp;&nbsp;<code style="color: #FF7B72;">def</code> <code style="color: #D2A8FF;">__init__</code>(self):<br>
         &nbsp;&nbsp;&nbsp;&nbsp;self.name = <code style="color: #79C0FF;">"Denis"</code><br>
         &nbsp;&nbsp;&nbsp;&nbsp;self.role = <code style="color: #79C0FF;">"ML/CV Engineer"</code><br>
