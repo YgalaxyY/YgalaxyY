@@ -98,21 +98,6 @@
 <img src="https://github.com/YgalaxyY/YgalaxyY/blob/main/assets/divider.gif" width="100%">
 <br>
 
-
-<h2 align="center" style="color: #FFD700;">🎓 NEURAL EVOLUTION PATH</h2>
-<div align="left" style="border-left: 5px solid #FFD700; background: #161b22; padding: 20px; border-radius: 0 15px 15px 0; border-top: 1px solid #30363d; border-bottom: 1px solid #30363d;">
-    <h3 style="margin-top: 0; color: #FFD700;">✨ Road to Senior ML Engineer</h3>
-    <p style="color: #c9d1d9;">Здесь я документирую свой процесс роста: решение алгоритмических задач, участие в соревнованиях Kaggle и изучение математики Deep Learning.</p>
-    
-   <a href="https://github.com/YgalaxyY/ML-Engineer-Path">
-        <img src="https://img.shields.io/badge/LeetCode_&_Kaggle-SOLUTIONS-orange?style=for-the-badge&logo=leetcode&logoColor=white">
-    </a>
-    &nbsp;
-    <img src="https://img.shields.io/badge/Status-GRINDING_HARD-critical?style=for-the-badge">
-</div>
-
-<br>
-
 <!-- SATELLITE PROJECTS -->
 <h2 align="center" style="color: #FF7B72;">🛰️ SATELLITE DEPLOYMENTS</h2>
 <table width="100%">
