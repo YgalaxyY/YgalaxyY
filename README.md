@@ -27,10 +27,8 @@
         &nbsp;&nbsp;<code style="color: #FF7B72;">def</code> <code style="color: #D2A8FF;">__init__</code>(self):<br>
         &nbsp;&nbsp;&nbsp;&nbsp;self.name = <code style="color: #79C0FF;">"Denis"</code><br>
         &nbsp;&nbsp;&nbsp;&nbsp;self.role = <code style="color: #79C0FF;">"ML/CV Engineer"</code><br>
-        &nbsp;&nbsp;&nbsp;&nbsp;self.stack = [<code style="color: #A5D6FF;">"PyTorch"</code>, <code style="color: #A5D6FF;">"OpenCV"</code>, <code style="color: #A5D6FF;">"PySide6"</code>, <code style="color: #A5D6FF;">"FastAPI"</code>]<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;self.stack = [<code style="color: #A5D6FF;">"PyTorch"</code>, <code style="color: #A5D6FF;">"OpenCV"</code>, <code style="color: #A5D6FF;">"FastAPI"</code>, <code style="color: #A5D6FF;">"Swarm"</code>]<br>
         &nbsp;&nbsp;&nbsp;&nbsp;self.tools = [<code style="color: #A5D6FF;">"Docker"</code>, <code style="color: #A5D6FF;">"Git"</code>, <code style="color: #A5D6FF;">"C#"</code>, <code style="color: #A5D6FF;">".NET"</code>]<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;self.hobbies = [<code style="color: #A5D6FF;">"Sci-Fi"</code>, <code style="color: #A5D6FF;">"Chess"</code>, <code style="color: #A5D6FF;">"Crossfit"</code>]<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;self.lifestyle = [<code style="color: #A5D6FF;">"Clean Eating"</code>, <code style="color: #A5D6FF;">"Biohacking"</code>]<br>
         &nbsp;&nbsp;&nbsp;&nbsp;self.mission = <code style="color: #7EE787;">"Building AGI to change the world"</code>
       </div>
       <br>
@@ -65,10 +63,10 @@
       <br>
       <h3 style="color: #A970FF;">Enterprise Automation Hub</h3>
       <p align="left" style="padding: 0 15px; color: #c9d1d9; font-size: 14px;">
-        ⚙️ <b>E-commerce гигант.</b> Система промышленной автоматизации: нейросети для апскейлинга, генерация карточек товара, прямая связь с Excel и защита софта (HWID).
+        ⚙️ <b>E-commerce гигант.</b> Система промышленной автоматизации: нейросети для апскейлинга, генерация карточек товара и защита софта (HWID).
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Stack-Python_|_PySide6_|_RealESRGAN-black?style=flat-square&color=0D1117&labelColor=7B2CBF">
+        <img src="https://img.shields.io/badge/Stack-Python_|_PySide6_|_AI-black?style=flat-square&color=0D1117&labelColor=7B2CBF">
       </p>
       <a href="https://github.com/YgalaxyY/Cardora-AI-Automation">
         <img src="https://img.shields.io/badge/WARP_IN-ACCESS_GRANTED-success?style=for-the-badge">
@@ -79,10 +77,10 @@
       <br>
       <h3 style="color: #00D4FF;">LLM Second Brain</h3>
       <p align="left" style="padding: 0 15px; color: #c9d1d9; font-size: 14px;">
-        🧠 <b>Личный Цифровой Помощник.</b> Ассистент на базе Qwen/Llama. Анализирует контент, классифицирует знания и управляет веб-сайтом без базы данных.
+        🧠 <b>Цифровой Помощник.</b> Ассистент на базе Qwen/Llama. Анализирует контент, классифицирует знания и управляет системой закладок.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Stack-Aiogram_|_HuggingFace_|_HTML5-black?style=flat-square&color=0D1117&labelColor=00D4FF">
+        <img src="https://img.shields.io/badge/Stack-Aiogram_|_HuggingFace-black?style=flat-square&color=0D1117&labelColor=00D4FF">
       </p>
       <a href="https://github.com/YgalaxyY/GalaxyOS_BookMarkCore">
         <img src="https://img.shields.io/badge/WARP_IN-ACCESS_GRANTED-blue?style=for-the-badge">
@@ -95,10 +93,10 @@
       <br>
       <h3 style="color: #FFD700;">Reverse Engineering</h3>
       <p align="left" style="padding: 0 15px; color: #c9d1d9; font-size: 14px;">
-        🔓 <b>Adobe Script Recovery.</b> Мощный декодер JSXBIN в читаемый JSX код. Использует кастомный парсер AST для восстановления логики автоматизации Creative Suite.
+        🔓 <b>Adobe Script Recovery.</b> Мощный декодер JSXBIN в читаемый JSX код. Использует кастомный парсер AST для восстановления логики Creative Suite.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Stack-C%23_|_AST_Parsing_|_Adobe-black?style=flat-square&color=0D1117&labelColor=FFD700">
+        <img src="https://img.shields.io/badge/Stack-C%23_|_AST_Parsing-black?style=flat-square&color=0D1117&labelColor=FFD700">
       </p>
       <a href="https://github.com/YgalaxyY/Adobe-JSXBIN-Decoder">
         <img src="https://img.shields.io/badge/WARP_IN-ACCESS_GRANTED-orange?style=for-the-badge">
@@ -109,13 +107,29 @@
       <br>
       <h3 style="color: #FF7B72;">Fashion Factory ERP</h3>
       <p align="left" style="padding: 0 15px; color: #c9d1d9; font-size: 14px;">
-        🧵 <b>Industrial Management.</b> Масштабная ERP-система для швейной фабрики. Управление заказами на пошив, инвентаризация тканей и CRM для работы с модными брендами.
+        🧵 <b>Industrial Management.</b> Масштабная ERP-система для швейной фабрики. Управление заказами, инвентаризация и CRM для модных брендов.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Stack-C%23_|_SQL_|_WinForms-black?style=flat-square&color=0D1117&labelColor=FF7B72">
       </p>
       <a href="https://github.com/YgalaxyY/sawing-company">
         <img src="https://img.shields.io/badge/WARP_IN-ACCESS_GRANTED-red?style=for-the-badge">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top" style="border: 2px solid #7EE787; border-radius: 20px; background-color: #0d1117; padding-bottom: 20px;">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=7EE787&height=120&section=header&text=SWARM%20AGENTS%20ORCHESTRATOR&fontSize=35&fontColor=0D1117&animation=twinkling&fontAlignY=40" width="100%"/>
+      <br>
+      <h3 style="color: #7EE787;">Multi-Agent Intelligence System</h3>
+      <p align="left" style="padding: 0 40px; color: #c9d1d9; font-size: 14px;">
+        🤖 <b>Protocol v2.</b> Фреймворк для управления роем автономных AI-агентов. Включает циклическую память (.swarm_memory), систему Supervisor для координации и логгирование состояний (Handoff Log) для решения комплексных задач.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Stack-Python_|_LLM_Swarm_|_Supervisor_Logic-black?style=flat-square&color=0D1117&labelColor=7EE787">
+      </p>
+      <a href="https://github.com/YgalaxyY/Swarm_agents">
+        <img src="https://img.shields.io/badge/DEPLOY_SWARM-ACCESS_GRANTED-success?style=for-the-badge">
       </a>
     </td>
   </tr>
@@ -156,7 +170,7 @@
      <tr>
         <td width="33%">
             <h3 align="center" style="color: #e2e2e2;">🩰 Ballet-Arts Harmony</h3>
-            <p align="center" style="color: #8b949e;">Лендинг с использованием Bootstrap 4 и Waypoints JS (Commercial Order)</p>
+            <p align="center" style="color: #8b949e;">Лендинг с использованием Bootstrap 4 и Waypoints JS.</p>
              <p align="center"><a href="https://github.com/YgalaxyY/Ballet-Arts-Harmony">View Repo</a></p>
         </td>
         <td width="33%">
