@@ -21,14 +21,16 @@
     </td>
     <td width="3%"></td>
     <td align="left" width="72%">
-      <h3 style="color: #ffffff; letter-spacing: 1px;">🧬 Neural Architect & Python Visionary</h3>
+      <h3 style="color: #ffffff; letter-spacing: 1px;">🧬 Neural Architect & Systems Engineer</h3>
       <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 20px; box-shadow: inset 0 0 20px rgba(0,0,0,0.5);">
         <code style="color: #FF7B72;">class</code> <code style="color: #E2C08D;">YgalaxyY</code>(<code style="color: #A5D6FF;">Engineer</code>): <br>
         &nbsp;&nbsp;<code style="color: #FF7B72;">def</code> <code style="color: #D2A8FF;">__init__</code>(self):<br>
         &nbsp;&nbsp;&nbsp;&nbsp;self.name = <code style="color: #79C0FF;">"Denis"</code><br>
-        &nbsp;&nbsp;&nbsp;&nbsp;self.role = <code style="color: #79C0FF;">"ML/CV Engineer"</code><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;self.role = <code style="color: #79C0FF;">"ML/CV Engineer & Security Researcher"</code><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;self.education = <code style="color: #79C0FF;">"DSTU (Computer Security)"</code><br>
         &nbsp;&nbsp;&nbsp;&nbsp;self.stack = [<code style="color: #A5D6FF;">"PyTorch"</code>, <code style="color: #A5D6FF;">"OpenCV"</code>, <code style="color: #A5D6FF;">"FastAPI"</code>, <code style="color: #A5D6FF;">"Swarm"</code>]<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;self.tools = [<code style="color: #A5D6FF;">"Docker"</code>, <code style="color: #A5D6FF;">"Git"</code>, <code style="color: #A5D6FF;">"C#"</code>, <code style="color: #A5D6FF;">".NET"</code>]<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;self.domain = [<code style="color: #A5D6FF;">"Computer Vision"</code>, <code style="color: #A5D6FF;">"OSINT"</code>, <code style="color: #A5D6FF;">"Blockchain Forensics"</code>, <code style="color: #A5D6FF;">"Reverse Engineering"</code>]<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;self.tools = [<code style="color: #A5D6FF;">"Docker"</code>, <code style="color: #A5D6FF;">"Git"</code>, <code style="color: #A5D6FF;">"C#"</code>, <code style="color: #A5D6FF;">".NET"</code>, <code style="color: #A5D6FF;">"Obsidian"</code>]<br>
         &nbsp;&nbsp;&nbsp;&nbsp;self.mission = <code style="color: #7EE787;">"Building AGI to change the world"</code>
       </div>
       <br>
@@ -128,7 +130,7 @@
       <p align="center">
         <img src="https://img.shields.io/badge/Stack-Python_|_LLM_Swarm_|_Supervisor_Logic-black?style=flat-square&color=0D1117&labelColor=7EE787">
       </p>
-      <a href="https://github.com/YgalaxyY/Swarm_agents">
+      <a href="https://github.com/YgalaxyY/Swarm-of-agents">
         <img src="https://img.shields.io/badge/DEPLOY_SWARM-ACCESS_GRANTED-success?style=for-the-badge">
       </a>
     </td>
