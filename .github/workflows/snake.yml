@@ -2,22 +2,39 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # запускать каждые 12 часов
+    - cron: "0 */12 * * *" # Запуск каждые 12 часов
   workflow_dispatch:
+  push:
+    branches:
+      - main
+
+# Явное указание прав доступа для GITHUB_TOKEN (исправляет ошибку 403)
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
+      # 1. Обновлена версия до v3 (поддержка актуального Node.js)
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # 2. Обновлено до v3 (исправляет предупреждение set-output)
+      - name: Generate Snake Files
+        uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: YgalaxyY
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          # Вывод файлов в разные форматы
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      # 3. Обновлено до v4 (стабильная загрузка в ветку output)
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
