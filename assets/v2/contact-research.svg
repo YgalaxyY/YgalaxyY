@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="68" viewBox="0 0 210 68" role="img" aria-label="RESEARCH">
+<title>RESEARCH</title><defs>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1b2033"/><stop offset=".55" stop-color="#121723"/><stop offset="1" stop-color="#1b172b"/></linearGradient>
+<linearGradient id="line"><stop stop-color="#7e6eae" stop-opacity="0"/><stop offset=".5" stop-color="#c7a7ff" stop-opacity=".8"/><stop offset="1" stop-color="#7e6eae" stop-opacity="0"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#a57ce7" stop-opacity=".24"/><stop offset="1" stop-color="#986ade" stop-opacity="0"/></radialGradient>
+<linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#af8ee5" stop-opacity=".4"/><stop offset="1" stop-color="#af8ee5" stop-opacity="0"/></linearGradient>
+</defs><rect x="1" y="1" width="208" height="66" rx="12" fill="#171b2a" stroke="#514263"/><path d="M27 26H49V43H27Z M32 31H44M32 36H41" fill="none" stroke="#c2a6e6" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/><text x="68" y="40" fill="#edf0fa" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="500" letter-spacing="1">RESEARCH</text></svg>

@@ -1,0 +1,1 @@
+Custom native SVG layout and diagrams by the profile owner with Codex assistance. Technology paths: Simple Icons, CC0-1.0; see icons/LICENSE.md. GitHub activity is a dated API snapshot, not a fabricated score. Artwork files are separately generated. SVG animation uses only decorative paths and opacity, no JavaScript or external resources.
