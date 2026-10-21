@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="assets/v2/hero.jpg" alt="Denis Bm — Machine Learning / Computer Vision. Galaxy observatory." width="100%" />
+  <img src="assets/v3/hero-animated.svg" alt="Denis Bm — Machine Learning / Computer Vision. Animated graphite and silver galaxy." width="100%" />
 </p>
 
 <p align="center">
-  <img src="assets/v2/availability.svg" alt="Open to ML engineering internships" width="100%" />
+  <img src="assets/v3/availability.svg" alt="Open to ML engineering internships" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://t.me/ygalaxyy"><img src="assets/v2/contact-telegram.svg" alt="Contact Denis on Telegram" width="23%" /></a>
-  <a href="https://github.com/YgalaxyY/deepsynth-research"><img src="assets/v2/contact-research.svg" alt="Explore deepfake research" width="23%" /></a>
-  <a href="https://github.com/YgalaxyY?tab=repositories"><img src="assets/v2/contact-repos.svg" alt="Browse all repositories" width="23%" /></a>
-  <a href="README.ru.md"><img src="assets/v2/contact-russian.svg" alt="Read profile in Russian" width="23%" /></a>
+  <a href="https://t.me/ygalaxyy"><img src="assets/v3/contact-telegram.svg" alt="Contact Denis on Telegram" width="23%" /></a>
+  <a href="https://github.com/YgalaxyY/deepsynth-research"><img src="assets/v3/contact-research.svg" alt="Explore deepfake research" width="23%" /></a>
+  <a href="https://github.com/YgalaxyY?tab=repositories"><img src="assets/v3/contact-repos.svg" alt="Browse all repositories" width="23%" /></a>
+  <a href="README.ru.md"><img src="assets/v3/contact-russian.svg" alt="Read profile in Russian" width="23%" /></a>
 </p>
 
-<img src="assets/v2/section-about.svg" alt="01 / About me" width="100%" />
+<img src="assets/v3/section-about.svg" alt="01 / About me" width="100%" />
 
-<img src="assets/v2/observatory.jpg" alt="A quiet observatory workspace beneath a violet galaxy" width="34%" align="right" />
+<img src="assets/v3/observatory.jpg" alt="A graphite observatory workspace beneath silver starlight" width="34%" align="right" />
 
 ### Hi, I'm Denis.
 
@@ -33,17 +33,17 @@ My work also spans local language models, Python automation and desktop applicat
 
 <br clear="all" />
 
-<img src="assets/v2/section-projects.svg" alt="02 / Selected projects — research and engineering" width="100%" />
+<img src="assets/v3/section-projects.svg" alt="02 / Selected projects — research and engineering" width="100%" />
 
-<a href="https://github.com/YgalaxyY/deepsynth-research"><img src="assets/v2/project-deepsynth.svg" alt="DeepSynth — research prototype for quality-aware audio-visual deepfake detection. PyTorch, OpenCV, librosa." width="100%" /></a>
+<a href="https://github.com/YgalaxyY/deepsynth-research"><img src="assets/v3/project-deepsynth.svg" alt="DeepSynth — research prototype for quality-aware audio-visual deepfake detection. PyTorch, OpenCV, librosa." width="100%" /></a>
 
-<a href="https://github.com/YgalaxyY/Cardora-AI-Automation"><img src="assets/v2/project-cardora.svg" alt="Cardora — desktop product showcase for image, Photoshop and spreadsheet automation. Application source is not public." width="100%" /></a>
+<a href="https://github.com/YgalaxyY/Cardora-AI-Automation"><img src="assets/v3/project-cardora.svg" alt="Cardora — desktop product showcase for image, Photoshop and spreadsheet automation. Application source is not public." width="100%" /></a>
 
-<a href="https://github.com/YgalaxyY/GalaxyOS_BookMarkCore"><img src="assets/v2/project-bookmarks.svg" alt="BookMarkCore — Python and aiogram application using an LLM API to organize Telegram links and update a knowledge page." width="100%" /></a>
+<a href="https://github.com/YgalaxyY/GalaxyOS_BookMarkCore"><img src="assets/v3/project-bookmarks.svg" alt="BookMarkCore — Python and aiogram application using an LLM API to organize Telegram links and update a knowledge page." width="100%" /></a>
 
-<a href="https://github.com/YgalaxyY/local-llm-roleplay-lab"><img src="assets/v2/project-local-llm.svg" alt="Local LLM Lab — local-model integration and interface customization around the upstream SillyTavern project." width="100%" /></a>
+<a href="https://github.com/YgalaxyY/local-llm-roleplay-lab"><img src="assets/v3/project-local-llm.svg" alt="Local LLM Lab — local-model integration and interface customization around the upstream SillyTavern project." width="100%" /></a>
 
-<a href="https://github.com/YgalaxyY/eco-banking-tracker"><img src="assets/v2/project-eco.svg" alt="Eco Banking Tracker — educational React, TypeScript, Express and SQLite dashboard with simulated finance data." width="100%" /></a>
+<a href="https://github.com/YgalaxyY/eco-banking-tracker"><img src="assets/v3/project-eco.svg" alt="Eco Banking Tracker — educational React, TypeScript, Express and SQLite dashboard with simulated finance data." width="100%" /></a>
 
 <details>
 <summary><strong>More engineering work</strong></summary>
@@ -58,14 +58,14 @@ The deepfake project is ongoing research; benchmarks under the corrected evaluat
 
 </details>
 
-<img src="assets/v2/section-tech.svg" alt="03 / Technologies — my toolkit" width="100%" />
+<img src="assets/v3/section-tech.svg" alt="03 / Technologies — my toolkit" width="100%" />
 
-<img src="assets/v2/toolbelt.svg" alt="ML and data: Python, PyTorch, OpenCV, NumPy, pandas, scikit-learn. Applications: TypeScript, React, Node.js, SQLite, Git, JavaScript." width="100%" />
+<img src="assets/v3/toolbelt.svg" alt="ML and data: Python, PyTorch, OpenCV, NumPy, pandas, scikit-learn. Applications: TypeScript, React, Node.js, SQLite, Git, JavaScript." width="100%" />
 
-<img src="assets/v2/section-activity.svg" alt="04 / Activity — from GitHub" width="100%" />
+<img src="assets/v3/section-activity.svg" alt="04 / Activity — from GitHub" width="100%" />
 
-<img src="assets/v2/activity.svg" alt="GitHub activity snapshot, 21 October 2026: 624 contributions in the last year and 15 public repositories." width="100%" />
+<img src="assets/v3/activity.svg" alt="GitHub activity snapshot, 21 October 2026: 624 contributions in the last year and 15 public repositories." width="100%" />
 
 <p align="center">
-  <a href="https://t.me/ygalaxyy"><img src="assets/v2/footer.svg" alt="Research. Build. Iterate. Let's connect about computer vision, multimodal learning or applied LLMs." width="100%" /></a>
+  <a href="https://t.me/ygalaxyy"><img src="assets/v3/footer.svg" alt="Research. Build. Iterate. Let's connect about computer vision, multimodal learning or applied LLMs." width="100%" /></a>
 </p>

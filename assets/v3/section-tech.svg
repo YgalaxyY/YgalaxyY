@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="86" viewBox="0 0 1100 86" role="img" aria-label="TECHNOLOGIES">
+<title>TECHNOLOGIES</title><defs>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1f2021"/><stop offset=".55" stop-color="#161718"/><stop offset="1" stop-color="#18191a"/></linearGradient>
+<linearGradient id="line"><stop stop-color="#72757a" stop-opacity="0"/><stop offset=".5" stop-color="#aeb3ba" stop-opacity=".8"/><stop offset="1" stop-color="#72757a" stop-opacity="0"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#888c91" stop-opacity=".24"/><stop offset="1" stop-color="#787c81" stop-opacity="0"/></radialGradient>
+<linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#969ba1" stop-opacity=".4"/><stop offset="1" stop-color="#969ba1" stop-opacity="0"/></linearGradient>
+</defs><path d="M0 69H1100" stroke="url(#line)"/><text x="0" y="39" fill="#a3a8af" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="500" letter-spacing="3">03</text><text x="60" y="40" fill="#e8eff8" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="600" letter-spacing="1.4">TECHNOLOGIES</text><text x="1100" y="38" fill="#abb1b8" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="end" letter-spacing="2">MY TOOLKIT</text><circle cy="69" r="2.3" fill="#d8e1e9" opacity=".6"><animate attributeName="cx" from="-10" to="1110" dur="18s" repeatCount="indefinite"/></circle></svg>

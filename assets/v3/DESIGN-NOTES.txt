@@ -1,0 +1,1 @@
+Graphite and cold silver edition. Header artwork is the user-selected reference, embedded in an SVG with decorative star and orbit motion. The original raster is preserved. Card, section and orbital animation uses native SVG, no JavaScript or external resources. Icons: Simple Icons, CC0-1.0; see icons/LICENSE.md. Activity is a dated real GitHub snapshot.
