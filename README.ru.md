@@ -26,4 +26,4 @@
 
 Python · PyTorch · OpenCV · NumPy · pandas · scikit-learn · librosa · TypeScript · React · SQLite · Git
 
-[Связаться в Telegram](https://t.me/ygalaxyy) · [English profile](README.md)
+[denis@burakovv.ru](mailto:denis@burakovv.ru) · [Telegram](https://t.me/ygalaxyy) · [English profile](README.md)

@@ -72,4 +72,4 @@ The deepfake project is ongoing research; benchmarks under the corrected evaluat
 
 <a href="https://t.me/ygalaxyy"><img src="assets/v4/footer.svg" alt="Let's build something useful. Open to junior ML roles and internships, and to relocation to the UAE. Contact Denis on Telegram." width="100%" /></a>
 
-<p align="center"><a href="https://t.me/ygalaxyy">Telegram</a> · <a href="https://github.com/YgalaxyY?tab=repositories">Repositories</a> · <a href="README.ru.md">Русская версия</a></p>
+<p align="center"><a href="mailto:denis@burakovv.ru">denis@burakovv.ru</a> · <a href="https://t.me/ygalaxyy">Telegram</a> · <a href="https://github.com/YgalaxyY?tab=repositories">Repositories</a> · <a href="README.ru.md">Русская версия</a></p>
