@@ -2,7 +2,7 @@
   <img src="assets/v4/galaxy-orbit.gif" alt="Denis Bm — Machine Learning. An original looping graphite-and-silver astronaut animation." width="100%" />
 </p>
 
-<img src="assets/v4/availability.svg" alt="Open to ML engineering internships. DSTU, Rostov-on-Don." width="100%" />
+<img src="assets/v4/availability.svg" alt="Open to junior ML engineer roles and internships. Open to relocation to the UAE." width="100%" />
 
 <p align="center">
   <a href="https://t.me/ygalaxyy"><img src="assets/v4/contact-telegram.svg" alt="Contact Denis on Telegram" width="23%" /></a>
@@ -15,7 +15,7 @@
 
 ### Hi, I'm Denis.
 
-I'm a fifth-year student at **Don State Technical University**, based in Rostov-on-Don, looking for an **ML engineering internship**.
+I'm a final-year Computer Science student at **Don State Technical University** (Rostov-on-Don), looking for a **junior ML engineer role or internship**. I'm open to relocating to the **UAE — Dubai or Abu Dhabi**.
 
 My main research interest is **computer vision and multimodal learning**. In DeepSynth, I explore how image quality can guide the fusion of audio and visual predictions for deepfake detection.
 
@@ -70,6 +70,6 @@ The deepfake project is ongoing research; benchmarks under the corrected evaluat
 
 <img src="assets/v4/section-contact.svg" alt="05 / Contact — start a conversation" width="100%" />
 
-<a href="https://t.me/ygalaxyy"><img src="assets/v4/footer.svg" alt="Let's build something useful. Open to ML engineering internships. Contact Denis on Telegram." width="100%" /></a>
+<a href="https://t.me/ygalaxyy"><img src="assets/v4/footer.svg" alt="Let's build something useful. Open to junior ML roles and internships, and to relocation to the UAE. Contact Denis on Telegram." width="100%" /></a>
 
 <p align="center"><a href="https://t.me/ygalaxyy">Telegram</a> · <a href="https://github.com/YgalaxyY?tab=repositories">Repositories</a> · <a href="README.ru.md">Русская версия</a></p>
