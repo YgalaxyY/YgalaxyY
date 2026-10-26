@@ -1,4 +1,4 @@
-<img src="assets/career-2026/header.svg" alt="Denis Burakov. Seeking a Python internship. Remote, up to 25 hours a week." width="100%" />
+<img src="assets/career-v5/galaxy-orbit.gif" alt="Denis Burakov. Seeking a Python internship. Remote, up to 25 hours a week." width="100%" />
 
 [Русская версия](README.md) · [Email](mailto:denis@burakovv.ru) · [Telegram](https://t.me/YgalaxyY)
 
