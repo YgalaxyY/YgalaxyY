@@ -1,75 +1,56 @@
-<p align="center">
-  <img src="assets/v4/galaxy-orbit.gif" alt="Denis Bm — Machine Learning. An original looping graphite-and-silver astronaut animation." width="100%" />
-</p>
+<img src="assets/career-2026/header.svg" alt="Денис Бураков — ищу стажировку по Python. Удалённо, до 25 часов в неделю." width="100%" />
 
-<img src="assets/v4/availability.svg" alt="Open to junior ML engineer roles and internships. Open to relocation to the UAE." width="100%" />
+<p align="center"><a href="mailto:denis@burakovv.ru">Email</a> · <a href="https://t.me/YgalaxyY">Telegram</a> · <a href="README.en.md">English</a></p>
 
-<p align="center">
-  <a href="https://t.me/ygalaxyy"><img src="assets/v4/contact-telegram.svg" alt="Contact Denis on Telegram" width="23%" /></a>
-  <a href="https://github.com/YgalaxyY/deepsynth-research"><img src="assets/v4/contact-research.svg" alt="Explore deepfake research" width="23%" /></a>
-  <a href="https://github.com/YgalaxyY?tab=repositories"><img src="assets/v4/contact-repos.svg" alt="Browse all repositories" width="23%" /></a>
-  <a href="README.ru.md"><img src="assets/v4/contact-russian.svg" alt="Read profile in Russian" width="23%" /></a>
-</p>
+## Привет, я Денис
 
-<img src="assets/v4/section-about.svg" alt="01 / Direction — a little context" width="100%" />
+Ищу **удалённую стажировку по Python или позицию начинающего разработчика с наставником**. Интересуют автоматизация работы с файлами и таблицами, Telegram-боты, API и интеграция готовых AI-сервисов.
 
-### Hi, I'm Denis.
+Учусь на **5-м курсе специалитета «Компьютерная безопасность» в ДГТУ**, Ростов-на-Дону. Планируемый выпуск — **2028 год**. Могу уделять работе **до 25 часов в неделю**; рассматриваю частичную занятость и гибкий график.
 
-I'm a final-year Computer Science student at **Don State Technical University** (Rostov-on-Don), looking for a **junior ML engineer role or internship**. I'm open to relocating to the **UAE — Dubai or Abu Dhabi**.
+## Проекты
 
-My main research interest is **computer vision and multimodal learning**. In DeepSynth, I explore how image quality can guide the fusion of audio and visual predictions for deepfake detection.
+Это личные и учебные проекты, созданные с активной помощью AI-инструментов. Сейчас я укрепляю основы Python и разбираю их реализацию. В описаниях указаны технологии конкретных проектов, доступные исходники и ограничения.
 
-I also build **local LLM integrations, Python automation and desktop tools**. I like work where an experiment becomes inspectable code, a usable interface and a clear explanation of its limits.
+<p align="center"><a href="https://github.com/YgalaxyY/concatenate_multiple_excel"><img src="assets/career-2026/excel.svg" width="48%" alt="Excel Merge Core — учебный прототип объединения Excel-отчётов на Python; исходный код и ограничения в README." /></a>&nbsp;<a href="https://github.com/YgalaxyY/GalaxyOS_BookMarkCore"><img src="assets/career-2026/bookmarks.svg" width="48%" alt="BookMarkCore — Telegram-бот, классификация через LLM API и публикация ссылок; исходный код." /></a></p>
 
-<img src="assets/v4/section-projects.svg" alt="02 / Selected work — research and engineering" width="100%" />
+- **[Excel Merge Core](https://github.com/YgalaxyY/concatenate_multiple_excel)** — небольшой Python-скрипт с интерфейсом для объединения таблиц. В README описаны требования к файлам и ограничения ранней реализации.
+- **[BookMarkCore](https://github.com/YgalaxyY/GalaxyOS_BookMarkCore)** — обработка текстов и ссылок из Telegram, классификация через готовые языковые модели и обновление HTML через GitHub API. Это интеграция моделей, а не их обучение.
 
-<a href="https://github.com/YgalaxyY/deepsynth-research"><img src="assets/v4/featured-deepsynth.svg" alt="DeepSynth Research — quality-aware audio-visual deepfake detection. My work: fusion method and evaluation pipeline. Research prototype; benchmark rerun pending." width="100%" /></a>
+<p align="center"><a href="https://github.com/YgalaxyY/Cardora-AI-Automation"><img src="assets/career-2026/cardora.svg" width="48%" alt="Cardora — демонстрация инструмента для изображений и таблиц; исходники приложения не опубликованы." /></a>&nbsp;<a href="https://github.com/YgalaxyY/deepsynth-research"><img src="assets/career-2026/deepsynth.svg" width="48%" alt="DeepSynth — учебный исследовательский прототип; подтверждённые результаты по исправленному протоколу пока отсутствуют." /></a></p>
 
-<p align="center">
-  <a href="https://github.com/YgalaxyY/deepsynth-research/tree/main/scripts">Source code</a> ·
-  <a href="https://github.com/YgalaxyY/deepsynth-research/blob/main/docs/METHODOLOGY.md">Methodology</a> ·
-  <a href="https://github.com/YgalaxyY/deepsynth-research/actions">Protocol checks</a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/YgalaxyY/Cardora-AI-Automation"><img src="assets/v4/card-cardora.svg" alt="Cardora — desktop workflow and integration for image, Photoshop and spreadsheet automation. Public repository: product showcase; application source is not public." width="47%" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/YgalaxyY/GalaxyOS_BookMarkCore"><img src="assets/v4/card-bookmarks.svg" alt="BookMarkCore — Python bot and LLM API pipeline that turns Telegram links into organized knowledge. Public code." width="47%" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/YgalaxyY/local-llm-roleplay-lab"><img src="assets/v4/card-local-llm.svg" alt="Local LLM Lab — my contribution is CleanUI and local/LAN integration around the upstream SillyTavern framework, not authorship of the framework or model training." width="47%" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/YgalaxyY/eco-banking-tracker"><img src="assets/v4/card-eco.svg" alt="Eco Banking Tracker — educational React, TypeScript, Express and SQLite prototype with simulated finance data." width="47%" /></a>
-</p>
+- **[Cardora](https://github.com/YgalaxyY/Cardora-AI-Automation)** — демонстрация настольного инструмента для подготовки карточек товаров: изображения, Photoshop и Excel. В открытом репозитории доступны описание и материалы проекта; код приложения не опубликован.
+- **[DeepSynth Research](https://github.com/YgalaxyY/deepsynth-research)** — учебный эксперимент с объединением аудио- и видеопризнаков для детекции дипфейков. Исходники и методика доступны; результаты по исправленному протоколу ещё предстоит получить.
 
 <details>
-<summary><strong>More engineering work</strong></summary>
+<summary>Другие личные и учебные проекты</summary>
 
-- [Adobe JSXBIN Decoder](https://github.com/YgalaxyY/Adobe-JSXBIN-Decoder) — C# decoding tools and AST-oriented code.
-- [Swarm of Agents](https://github.com/YgalaxyY/Swarm-of-agents) — an experiment configuring local Roo Code / Ollama agent roles.
-- [Excel consolidation](https://github.com/YgalaxyY/concatenate_multiple_excel) — a Python utility for combining spreadsheet reports.
-- [Sewing factory management](https://github.com/YgalaxyY/Sawing-Company) — a student WinForms and MySQL application.
-- [House of the Sun](https://github.com/YgalaxyY/House-of-the-sun) and [Ballet Arts Harmony](https://github.com/YgalaxyY/Ballet-Arts-Harmony) — web interfaces and visual design work.
-
-The deepfake project is ongoing research; benchmarks under the corrected evaluation protocol are pending. SillyTavern and pretrained models are credited to their upstream authors in the project repositories.
+- [Local LLM Roleplay Lab](https://github.com/YgalaxyY/local-llm-roleplay-lab) — настройка локальных моделей и интерфейса на базе SillyTavern. Фреймворк и модели принадлежат их авторам.
+- [Eco Banking Tracker](https://github.com/YgalaxyY/eco-banking-tracker) — учебное веб-приложение с демонстрационными данными, без банковской интеграции.
+- [Учётная система](https://github.com/YgalaxyY/Sawing-Company) — учебный проект на C#, WinForms и MySQL.
+- [Swarm of Agents](https://github.com/YgalaxyY/Swarm-of-agents) — эксперимент с настройкой ролей для Roo Code и Ollama.
+- [Adobe JSXBIN Decoder](https://github.com/YgalaxyY/Adobe-JSXBIN-Decoder) — репозиторий инструмента декодирования JSXBIN на C#.
+- [House of the Sun](https://github.com/YgalaxyY/House-of-the-sun) и [Ballet Arts Harmony](https://github.com/YgalaxyY/Ballet-Arts-Harmony) — веб-интерфейсы.
 
 </details>
 
-<img src="assets/v4/section-workflow.svg" alt="03 / Working principles — from question to code" width="100%" />
+## Что изучаю и с чем работал в проектах
 
-<img src="assets/v4/workflow.svg" alt="What I value: a clear research question, an inspectable implementation, tests and explicit limits, reproduction steps and documentation." width="100%" />
+Основное направление — **Python, файлы, JSON, pandas, openpyxl и HTTP API**. В проектах также использованы aiogram, GitHub API, готовые LLM и инструменты локального запуска моделей. Перечень отражает проектную практику; я ищу именно начальную позицию с наставничеством.
 
-<img src="assets/v4/section-tech.svg" alt="04 / Toolkit — tools behind the work" width="100%" />
+Есть опыт работы системным администратором в **Tatrum, сентябрь–октябрь 2024 года**: ЭДО, СКУД, 1С.
 
-<img src="assets/v4/toolbelt.svg" alt="ML and data: Python, PyTorch, OpenCV, NumPy, pandas, scikit-learn. Applications: TypeScript, React, Node.js, SQLite, Git, JavaScript." width="100%" />
+## Связаться
+
+**[denis@burakovv.ru](mailto:denis@burakovv.ru)** · **[Telegram @YgalaxyY](https://t.me/YgalaxyY)**
+
+Удалённо · до 25 часов в неделю · стажировка или начальная позиция по Python.
 
 <details>
-<summary>GitHub activity · dated snapshot</summary>
+<summary>Оформление моего исследовательского портфолио</summary>
 
-<img src="assets/v4/activity.svg" alt="Historical GitHub snapshot, 21 October 2026: 624 contributions in the last year and 15 public repositories." width="100%" />
+Сохранил анимацию из прежнего оформления, посвящённого интересу к машинному обучению.
+
+<img src="assets/v4/galaxy-orbit.gif" alt="Архивная иллюстрация исследовательского портфолио — космонавт в графитово-серебристой палитре." width="100%" />
 
 </details>
-
-<img src="assets/v4/section-contact.svg" alt="05 / Contact — start a conversation" width="100%" />
-
-<a href="https://t.me/ygalaxyy"><img src="assets/v4/footer.svg" alt="Let's build something useful. Open to junior ML roles and internships, and to relocation to the UAE. Contact Denis on Telegram." width="100%" /></a>
-
-<p align="center"><a href="mailto:denis@burakovv.ru">denis@burakovv.ru</a> · <a href="https://t.me/ygalaxyy">Telegram</a> · <a href="https://github.com/YgalaxyY?tab=repositories">Repositories</a> · <a href="README.ru.md">Русская версия</a></p>
