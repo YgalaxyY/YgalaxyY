@@ -6,7 +6,7 @@
   <a href="https://t.me/YgalaxyY"><img src="assets/career-v5/contact-telegram.svg" alt="Написать в Telegram" width="23%" /></a>
   <a href="https://github.com/YgalaxyY/deepsynth-research"><img src="assets/career-v5/contact-research.svg" alt="Учебное исследование DeepSynth" width="23%" /></a>
   <a href="https://github.com/YgalaxyY?tab=repositories"><img src="assets/career-v5/contact-repos.svg" alt="Все проекты" width="23%" /></a>
-  <a href="README.en.md">English version</a>
+  <a href="README.en.md"><img src="assets/career-v5/contact-english.svg" alt="Read the profile in English" width="23%" /></a>
 </p>
 
 <img src="assets/career-v5/section-about.svg" alt="01 / Обо мне и поиске работы" width="100%" />
