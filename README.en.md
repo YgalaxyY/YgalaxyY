@@ -19,7 +19,7 @@ I'm studying **Computer Security in a Specialist degree program at Don State Tec
 
 <img src="assets/profile-v6/section-projects.svg" alt="02 / Personal and educational projects" width="100%" />
 
-Personal and educational projects assembled with AI assistance. Implementation details, setup instructions and current status are documented in each repository.
+Personal and educational projects. Implementation details, setup instructions and current status are documented in each repository.
 
 <a href="https://github.com/YgalaxyY/GalaxyOS_BookMarkCore"><img src="assets/profile-v6/featured-bookmarks.svg" alt="BookMarkCore — an AI-assisted personal Python project: Telegram, LLM APIs and GitHub publishing." width="100%" /></a>
 

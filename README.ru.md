@@ -19,7 +19,7 @@
 
 <img src="assets/profile-v6/section-projects.svg" alt="02 / Личные и учебные проекты" width="100%" />
 
-Личные и учебные проекты, которые я собираю с помощью AI-инструментов. Реализация, запуск и текущий статус — в описаниях репозиториев.
+Личные и учебные проекты. Реализация, запуск и текущий статус — в описаниях репозиториев.
 
 <a href="https://github.com/YgalaxyY/GalaxyOS_BookMarkCore"><img src="assets/profile-v6/featured-bookmarks.svg" alt="BookMarkCore — личный Python-проект с AI-помощью: Telegram, LLM API и публикация в GitHub." width="100%" /></a>
 
