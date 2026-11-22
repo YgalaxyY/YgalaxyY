@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/profile-v6/galaxy-orbit.gif" alt="Denis — Python and automation. An astronaut in a graphite and silver animation." width="100%" /></p>
 
-<img src="assets/profile-v6/availability.svg" alt="Personal projects and experiments: Python, APIs and AI tools." width="100%" />
+<img src="assets/profile-v6/availability-portfolio.svg" alt="Cardora Studio and selected projects: Python, APIs and AI tools." width="100%" />
 
 <p align="center">
   <a href="https://t.me/YgalaxyY"><img src="assets/profile-v6/contact-telegram.svg" alt="Message me on Telegram" width="23%" /></a>
@@ -13,13 +13,13 @@
 
 ### Hi, I'm Denis
 
-I'm interested in **Python, automation and AI tools**, from files and spreadsheets to Telegram bots, APIs and local language models. This profile brings together my personal projects, student work and experiments.
+I'm interested in **Python, automation and AI tools**, from files and spreadsheets to Telegram bots, APIs and local language models. This profile brings together Cardora Studio, my commercial product, and selected personal and student projects.
 
 I'm studying **Computer Security in a Specialist degree program at Don State Technical University**, Rostov-on-Don. Expected graduation: **2028**.
 
-<img src="assets/profile-v6/section-projects.svg" alt="02 / Personal and educational projects" width="100%" />
+<img src="assets/profile-v6/section-projects.svg" alt="02 / Selected projects" width="100%" />
 
-Personal and educational projects. Implementation details, setup instructions and current status are documented in each repository.
+See the linked repositories for implementation details, releases and setup instructions.
 
 <a href="https://github.com/YgalaxyY/GalaxyOS_BookMarkCore"><img src="assets/profile-v6/featured-bookmarks.svg" alt="BookMarkCore — an AI-assisted personal Python project: Telegram, LLM APIs and GitHub publishing." width="100%" /></a>
 

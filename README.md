@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/profile-v6/galaxy-orbit.gif" alt="Денис — Python и автоматизация. Космонавт в графитово-серебристой анимации." width="100%" /></p>
 
-<img src="assets/profile-v6/availability.svg" alt="Личные проекты и эксперименты: Python, API и AI-инструменты." width="100%" />
+<img src="assets/profile-v6/availability-portfolio.svg" alt="Cardora Studio и избранные проекты: Python, API и AI." width="100%" />
 
 <p align="center">
   <a href="https://t.me/YgalaxyY"><img src="assets/profile-v6/contact-telegram.svg" alt="Написать в Telegram" width="23%" /></a>
@@ -13,7 +13,7 @@
 
 ### Привет, я Денис
 
-Занимаюсь **Python, автоматизацией и AI-инструментами**: от обработки файлов и таблиц до Telegram-ботов, API и локальных языковых моделей. Здесь собраны мои личные проекты, учебные работы и эксперименты.
+Занимаюсь **Python, автоматизацией и AI-инструментами**: от обработки файлов и таблиц до Telegram-ботов, API и локальных языковых моделей. Здесь собраны Cardora Studio, мой коммерческий продукт, а также личные и учебные проекты.
 
 Учусь на специалитете **«Компьютерная безопасность» в ДГТУ**, Ростов-на-Дону. Планируемый выпуск — **2028 год**.
 
@@ -21,9 +21,9 @@
   <a href="README.ru.md#автоматизация-для-клиентов"><img src="assets/profile-v6/action-client-ru.svg" alt="Автоматизация для клиентов" width="264" height="44" /></a>
 </p>
 
-<img src="assets/profile-v6/section-projects.svg" alt="02 / Личные и учебные проекты" width="100%" />
+<img src="assets/profile-v6/section-projects.svg" alt="02 / Избранные проекты" width="100%" />
 
-Личные и учебные проекты. Реализация, запуск и текущий статус — в описаниях репозиториев.
+Подробности реализации, релизы и инструкции доступны по ссылкам на карточках.
 
 <a href="https://github.com/YgalaxyY/GalaxyOS_BookMarkCore"><img src="assets/profile-v6/featured-bookmarks.svg" alt="BookMarkCore — личный Python-проект с AI-помощью: Telegram, LLM API и публикация в GitHub." width="100%" /></a>
 
