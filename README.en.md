@@ -23,7 +23,10 @@ Personal and educational projects. Implementation details, setup instructions an
 
 <a href="https://github.com/YgalaxyY/GalaxyOS_BookMarkCore"><img src="assets/profile-v6/featured-bookmarks.svg" alt="BookMarkCore — an AI-assisted personal Python project: Telegram, LLM APIs and GitHub publishing." width="100%" /></a>
 
-<p align="center"><a href="https://github.com/YgalaxyY/GalaxyOS_BookMarkCore/blob/main/main.py">Source code</a> · <a href="https://github.com/YgalaxyY/GalaxyOS_BookMarkCore#readme">Setup and limitations</a></p>
+<p align="center">
+  <a href="https://github.com/YgalaxyY/GalaxyOS_BookMarkCore/blob/main/main.py"><img src="assets/profile-v6/action-source-en.svg" alt="Source code" width="145" height="44" /></a>
+  <a href="https://github.com/YgalaxyY/GalaxyOS_BookMarkCore#readme"><img src="assets/profile-v6/action-setup-en.svg" alt="Setup and limitations" width="197" height="44" /></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/YgalaxyY/concatenate_multiple_excel"><img src="assets/profile-v6/card-excel.svg" alt="Excel Merge Core — an educational prototype for combining Excel reports; source and limitations in the README." width="47%" /></a>&nbsp;&nbsp;

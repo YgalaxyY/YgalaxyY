@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="251" height="44" viewBox="0 0 251 44" role="img" aria-label="Автоматизация для клиентов">
+  <title>Автоматизация для клиентов</title>
+  <defs>
+    <linearGradient id="surface" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop stop-color="#202933"/>
+      <stop offset=".62" stop-color="#141b22"/>
+      <stop offset="1" stop-color="#171f28"/>
+    </linearGradient>
+    <linearGradient id="silver">
+      <stop stop-color="#58697a" stop-opacity="0"/>
+      <stop offset=".44" stop-color="#c2ccd5" stop-opacity=".62"/>
+      <stop offset="1" stop-color="#58697a" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="1.5" y="2" width="248" height="40" rx="10" fill="url(#surface)" stroke="#3c4b59"/>
+  <path d="M13 3H238" fill="none" stroke="url(#silver)"/>
+  <path d="M12 19h17v9H12zm5 0v-4h7v4m-12 3h17" fill="none" stroke="#a9b8c7" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="36" y="27" fill="#e7edf2" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="500">Автоматизация для клиентов</text>
+  <path d="M231 25l6-6m-5 0h5v5" fill="none" stroke="#8b9eb0" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

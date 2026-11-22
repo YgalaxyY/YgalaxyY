@@ -17,7 +17,9 @@
 
 Учусь на специалитете **«Компьютерная безопасность» в ДГТУ**, Ростов-на-Дону. Планируемый выпуск — **2028 год**.
 
-<p align="center"><a href="README.ru.md#автоматизация-для-клиентов">Примеры автоматизации для клиентов</a></p>
+<p align="center">
+  <a href="README.ru.md#автоматизация-для-клиентов"><img src="assets/profile-v6/action-work-ru.svg" alt="Автоматизация для клиентов" width="251" height="44" /></a>
+</p>
 
 <img src="assets/profile-v6/section-projects.svg" alt="02 / Личные и учебные проекты" width="100%" />
 
@@ -25,7 +27,10 @@
 
 <a href="https://github.com/YgalaxyY/GalaxyOS_BookMarkCore"><img src="assets/profile-v6/featured-bookmarks.svg" alt="BookMarkCore — личный Python-проект с AI-помощью: Telegram, LLM API и публикация в GitHub." width="100%" /></a>
 
-<p align="center"><a href="https://github.com/YgalaxyY/GalaxyOS_BookMarkCore/blob/main/main.py">Исходный код</a> · <a href="https://github.com/YgalaxyY/GalaxyOS_BookMarkCore#readme">Настройка и ограничения</a></p>
+<p align="center">
+  <a href="https://github.com/YgalaxyY/GalaxyOS_BookMarkCore/blob/main/main.py"><img src="assets/profile-v6/action-source-ru.svg" alt="Исходный код" width="162" height="44" /></a>
+  <a href="https://github.com/YgalaxyY/GalaxyOS_BookMarkCore#readme"><img src="assets/profile-v6/action-setup-ru.svg" alt="Настройка и ограничения" width="230" height="44" /></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/YgalaxyY/concatenate_multiple_excel"><img src="assets/profile-v6/card-excel.svg" alt="Excel Merge Core — учебный прототип объединения Excel-отчётов; исходный код и ограничения в README." width="47%" /></a>&nbsp;&nbsp;
