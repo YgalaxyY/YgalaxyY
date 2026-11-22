@@ -18,7 +18,7 @@
 Учусь на специалитете **«Компьютерная безопасность» в ДГТУ**, Ростов-на-Дону. Планируемый выпуск — **2028 год**.
 
 <p align="center">
-  <a href="README.ru.md#автоматизация-для-клиентов"><img src="assets/profile-v6/action-work-ru.svg" alt="Автоматизация для клиентов" width="264" height="44" /></a>
+  <a href="README.ru.md#автоматизация-для-клиентов"><img src="assets/profile-v6/action-work-ru.svg?v=2" alt="Автоматизация для клиентов" width="264" height="44" /></a>
 </p>
 
 <img src="assets/profile-v6/section-projects.svg" alt="02 / Личные и учебные проекты" width="100%" />
@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://github.com/YgalaxyY/GalaxyOS_BookMarkCore/blob/main/main.py"><img src="assets/profile-v6/action-source-ru.svg" alt="Исходный код" width="162" height="44" /></a>
-  <a href="https://github.com/YgalaxyY/GalaxyOS_BookMarkCore#readme"><img src="assets/profile-v6/action-setup-ru.svg" alt="Настройка и ограничения" width="249" height="44" /></a>
+  <a href="https://github.com/YgalaxyY/GalaxyOS_BookMarkCore#readme"><img src="assets/profile-v6/action-setup-ru.svg?v=2" alt="Настройка и ограничения" width="249" height="44" /></a>
 </p>
 
 <p align="center">
