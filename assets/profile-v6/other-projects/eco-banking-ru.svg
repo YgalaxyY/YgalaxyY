@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="212" viewBox="0 0 540 212" role="img" aria-labelledby="title desc">
+  <title id="title">Eco Banking Tracker</title>
+  <desc id="desc">Учёт расходов и аналитика на демонстрационных данных. REACT · EXPRESS · SQLITE</desc>
+  <defs>
+    <linearGradient id="graphite" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop stop-color="#1c2530"/><stop offset=".6" stop-color="#131a22"/><stop offset="1" stop-color="#19222c"/>
+    </linearGradient>
+    <linearGradient id="silver">
+      <stop stop-color="#7891a8" stop-opacity="0"/><stop offset=".3" stop-color="#b7c7d5" stop-opacity=".66"/>
+      <stop offset="1" stop-color="#7891a8" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#92adca" stop-opacity=".16"/><stop offset="1" stop-color="#92adca" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="538" height="210" rx="16" fill="url(#graphite)" stroke="#3c4b59" stroke-width="1.4"/>
+  <ellipse cx="463" cy="61" rx="65" ry="54" fill="url(#glow)"/>
+  <path d="M26 15h488" stroke="url(#silver)"/>
+  <g transform="translate(481 63)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="-28" y="-28" width="56" height="56" rx="13" fill="#18222c" stroke="#4a5d70"/>
+    <g stroke="#bfccd9" stroke-width="1.6"><rect x="-18" y="-13" width="36" height="26" rx="4"/><path d="M-12 7v-5m8 5v-11m8 11v-7m8 7v-15"/></g>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="26" y="41" fill="#a9b9c8" font-size="16" font-weight="600" letter-spacing="1.15">ВЕБ-ПРИЛОЖЕНИЕ</text>
+    <text x="26" y="82" fill="#eef3fa" font-size="30" font-weight="650">Eco Banking Tracker</text>
+    <text x="26" y="117" fill="#c8d3de" font-size="22">Учёт расходов и аналитика</text>
+    <text x="26" y="144" fill="#c8d3de" font-size="22">на демонстрационных данных.</text>
+    <text x="26" y="188" fill="#a9b9c8" font-size="16" font-weight="500" letter-spacing=".7">REACT · EXPRESS · SQLITE</text>
+  </g>
+  <path d="M26 161h488" stroke="#51677a" stroke-opacity=".53"/>
+  <path d="M494 191l14-14m-10 0h10v10" fill="none" stroke="#d8e4ee" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

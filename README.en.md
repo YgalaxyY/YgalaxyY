@@ -37,16 +37,22 @@ See the linked repositories for implementation details, releases and setup instr
   <a href="https://github.com/YgalaxyY/local-llm-roleplay-lab"><img src="assets/profile-v6/card-sillytavern-roleplay.svg" alt="SillyTavern / Local LLM Lab — local roleplay setup, character behavior, and ComfyUI image generation in the personal build." width="47%" /></a>
 </p>
 
-<details>
-<summary><strong>Other projects</strong></summary>
+### Other projects
 
-- [Eco Banking Tracker](https://github.com/YgalaxyY/eco-banking-tracker) — an educational web application with simulated data and no banking integration.
-- [Factory management](https://github.com/YgalaxyY/Sawing-Company) — a student project using C#, WinForms and MySQL.
-- [Swarm of Agents](https://github.com/YgalaxyY/Swarm-of-agents) — an experiment configuring roles for Roo Code and Ollama.
-- [Adobe JSXBIN Decoder](https://github.com/YgalaxyY/Adobe-JSXBIN-Decoder) — a repository for a C# JSXBIN decoding tool.
-- [House of the Sun](https://github.com/YgalaxyY/House-of-the-sun) and [Ballet Arts Harmony](https://github.com/YgalaxyY/Ballet-Arts-Harmony) — web interfaces.
+<p align="center">
+  <a href="https://github.com/YgalaxyY/eco-banking-tracker"><img src="assets/profile-v6/other-projects/eco-banking-en.svg" width="396" alt="Eco Banking Tracker — Expense tracking and analytics with simulated data." /></a>
+  <a href="https://github.com/YgalaxyY/Sawing-Company"><img src="assets/profile-v6/other-projects/sawing-company-en.svg" width="396" alt="Sewing Factory Management — Orders, products, customers and staff in a student management system." /></a>
+</p>
 
-</details>
+<p align="center">
+  <a href="https://github.com/YgalaxyY/Swarm-of-agents"><img src="assets/profile-v6/other-projects/swarm-en.svg" width="396" alt="Swarm of Agents — Generates role prompts and configs for Roo Code and Ollama." /></a>
+  <a href="https://github.com/YgalaxyY/Adobe-JSXBIN-Decoder"><img src="assets/profile-v6/other-projects/jsxbin-en.svg" width="396" alt="Adobe JSXBIN Decoder — An adaptation of autoboosh’s converter for turning JSXBIN into readable JSX." /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/YgalaxyY/House-of-the-sun"><img src="assets/profile-v6/other-projects/house-of-the-sun-en.svg" width="396" alt="House of the Sun — Guesthouse site with a gallery and quick-copy contact details." /></a>
+  <a href="https://github.com/YgalaxyY/Ballet-Arts-Harmony"><img src="assets/profile-v6/other-projects/ballet-en.svg" width="396" alt="Ballet Arts Harmony — A Free-Template.co adaptation with a carousel and scroll animations." /></a>
+</p>
 
 <img src="assets/profile-v6/section-workflow.svg" alt="03 / Interests" width="100%" />
 

@@ -41,16 +41,22 @@
   <a href="https://github.com/YgalaxyY/local-llm-roleplay-lab"><img src="assets/profile-v6/card-sillytavern-roleplay.svg" alt="SillyTavern / Local LLM Lab — локальный ролевой чат, персонажи, сценарии диалогов и генерация изображений через ComfyUI в личной сборке." width="47%" /></a>
 </p>
 
-<details>
-<summary><strong>Другие проекты</strong></summary>
+### Другие проекты
 
-- [Eco Banking Tracker](https://github.com/YgalaxyY/eco-banking-tracker) — учебное веб-приложение с демонстрационными данными, без банковской интеграции.
-- [Учётная система](https://github.com/YgalaxyY/Sawing-Company) — учебный проект на C#, WinForms и MySQL.
-- [Swarm of Agents](https://github.com/YgalaxyY/Swarm-of-agents) — эксперимент с конфигурацией ролей для Roo Code и Ollama.
-- [Adobe JSXBIN Decoder](https://github.com/YgalaxyY/Adobe-JSXBIN-Decoder) — репозиторий инструмента декодирования JSXBIN на C#.
-- [House of the Sun](https://github.com/YgalaxyY/House-of-the-sun) и [Ballet Arts Harmony](https://github.com/YgalaxyY/Ballet-Arts-Harmony) — веб-интерфейсы.
+<p align="center">
+  <a href="https://github.com/YgalaxyY/eco-banking-tracker"><img src="assets/profile-v6/other-projects/eco-banking-ru.svg" width="396" alt="Eco Banking Tracker — Учёт расходов и аналитика на демонстрационных данных." /></a>
+  <a href="https://github.com/YgalaxyY/Sawing-Company"><img src="assets/profile-v6/other-projects/sawing-company-ru.svg" width="396" alt="Учёт швейного производства — Заказы, товары, клиенты и сотрудники в учебной системе учёта." /></a>
+</p>
 
-</details>
+<p align="center">
+  <a href="https://github.com/YgalaxyY/Swarm-of-agents"><img src="assets/profile-v6/other-projects/swarm-ru.svg" width="396" alt="Swarm of Agents — Генератор промптов и конфигураций ролей для Roo Code и Ollama." /></a>
+  <a href="https://github.com/YgalaxyY/Adobe-JSXBIN-Decoder"><img src="assets/profile-v6/other-projects/jsxbin-ru.svg" width="396" alt="Adobe JSXBIN Decoder — Адаптация конвертера autoboosh для перевода JSXBIN в читаемый JSX." /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/YgalaxyY/House-of-the-sun"><img src="assets/profile-v6/other-projects/house-of-the-sun-ru.svg" width="396" alt="House of the Sun — Сайт гостевого дома с галереей и копированием контактов." /></a>
+  <a href="https://github.com/YgalaxyY/Ballet-Arts-Harmony"><img src="assets/profile-v6/other-projects/ballet-ru.svg" width="396" alt="Ballet Arts Harmony — Адаптация шаблона Free-Template.co с каруселью и анимацией при скролле." /></a>
+</p>
 
 <img src="assets/profile-v6/section-workflow.svg" alt="03 / Что мне интересно" width="100%" />
 
