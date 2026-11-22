@@ -30,11 +30,11 @@ Personal and educational projects. Implementation details, setup instructions an
 
 <p align="center">
   <a href="https://github.com/YgalaxyY/concatenate_multiple_excel"><img src="assets/profile-v6/card-excel.svg" alt="Excel Merge Core — an educational prototype for combining Excel reports; source and limitations in the README." width="47%" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/YgalaxyY/Cardora-AI-Automation"><img src="assets/profile-v6/card-cardora.svg" alt="Cardora — a showcase of image, Photoshop and Excel automation. Application source is not public." width="47%" /></a>
+  <a href="https://github.com/YgalaxyY/Cardora-AI-Automation"><img src="assets/profile-v6/card-cardora-commercial.svg" alt="Cardora Studio — a commercial Windows application for product image processing, Photoshop templates and Excel." width="47%" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/YgalaxyY/deepsynth-research"><img src="assets/profile-v6/card-deepsynth.svg" alt="DeepSynth — an educational research prototype. Corrected-protocol benchmark results are pending." width="47%" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/YgalaxyY/local-llm-roleplay-lab"><img src="assets/profile-v6/card-local-llm.svg" alt="Local LLM Lab — AI-assisted setup of local models and interfaces around SillyTavern." width="47%" /></a>
+  <a href="https://github.com/YgalaxyY/local-llm-roleplay-lab"><img src="assets/profile-v6/card-sillytavern-roleplay.svg" alt="SillyTavern / Local LLM Lab — local roleplay setup, character behavior, and ComfyUI image generation in the personal build." width="47%" /></a>
 </p>
 
 <details>

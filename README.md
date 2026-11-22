@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://t.me/YgalaxyY"><img src="assets/profile-v6/contact-telegram.svg" alt="Написать в Telegram" width="23%" /></a>
   <a href="https://github.com/YgalaxyY/deepsynth-research"><img src="assets/profile-v6/contact-research.svg" alt="Учебное исследование DeepSynth" width="23%" /></a>
-  <a href="https://github.com/YgalaxyY?tab=repositories"><img src="assets/profile-v6/contact-repos.svg" alt="Все проекты" width="23%" /></a>
+  <a href="PROJECTS.ru.md"><img src="assets/profile-v6/contact-repos.svg" alt="Все проекты" width="23%" /></a>
   <a href="README.en.md"><img src="assets/profile-v6/contact-english.svg" alt="Read the profile in English" width="23%" /></a>
 </p>
 
@@ -34,11 +34,11 @@
 
 <p align="center">
   <a href="https://github.com/YgalaxyY/concatenate_multiple_excel"><img src="assets/profile-v6/card-excel.svg" alt="Excel Merge Core — учебный прототип объединения Excel-отчётов; исходный код и ограничения в README." width="47%" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/YgalaxyY/Cardora-AI-Automation"><img src="assets/profile-v6/card-cardora.svg" alt="Cardora — демонстрация автоматизации изображений, Photoshop и Excel. Код приложения не опубликован." width="47%" /></a>
+  <a href="https://github.com/YgalaxyY/Cardora-AI-Automation"><img src="assets/profile-v6/card-cardora-commercial.svg" alt="Cardora Studio — коммерческое Windows-приложение для обработки фото, Photoshop, Excel и выгрузки на Wildberries." width="47%" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/YgalaxyY/deepsynth-research"><img src="assets/profile-v6/card-deepsynth.svg" alt="DeepSynth — учебный исследовательский прототип. Подтверждённые результаты по исправленному протоколу пока отсутствуют." width="47%" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/YgalaxyY/local-llm-roleplay-lab"><img src="assets/profile-v6/card-local-llm.svg" alt="Local LLM Lab — настройка локальных моделей и интерфейса с помощью ИИ на базе SillyTavern." width="47%" /></a>
+  <a href="https://github.com/YgalaxyY/local-llm-roleplay-lab"><img src="assets/profile-v6/card-sillytavern-roleplay.svg" alt="SillyTavern / Local LLM Lab — локальный ролевой чат, персонажи, сценарии диалогов и генерация изображений через ComfyUI в личной сборке." width="47%" /></a>
 </p>
 
 <details>
